@@ -1,0 +1,11 @@
+Tools and Skills
+HTML5
+Git
+Node JS
+Browser sync
+VSCode
+Sublime
+
+Para iniciar un servidor local y cargar nuestros archvios del proyecto 
+activando la sincronizacion continua
+[browser-sync start --server --directory --files"*"]

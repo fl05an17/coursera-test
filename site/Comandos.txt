@@ -9,3 +9,13 @@ Sublime
 Para iniciar un servidor local y cargar nuestros archvios del proyecto 
 activando la sincronizacion continua
 [browser-sync start --server --directory --files"*"]
+
+-----------------------------------------------------------------------------
+
+Modulo CSS3
+
+Pagina para ver algunos cambios que se realizan a traves de CSS para cambiar solamente el diseño de la pagina
+El Cupero HTML5 es el mismo
+
+www.csszengarden.com
+
